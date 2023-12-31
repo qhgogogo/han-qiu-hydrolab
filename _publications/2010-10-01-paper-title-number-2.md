@@ -1,6 +1,5 @@
 ---
-Qiu, Han, Jie Niu, Dean G. Baas, and Mantha S. Phanikumar. 2023. A.882, 163348. DOI:https://doi.org/10.1016/j.scitotenv.2023.163348
-title: "n integrated watershed-scale framework to model nitrogen transport and transformations"
+title: "An integrated watershed-scale framework to model nitrogen transport and transformations"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
