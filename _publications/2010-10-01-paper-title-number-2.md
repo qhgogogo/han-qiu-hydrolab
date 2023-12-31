@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 2"
+Qiu, Han, Jie Niu, Dean G. Baas, and Mantha S. Phanikumar. 2023. A.882, 163348. DOI:https://doi.org/10.1016/j.scitotenv.2023.163348
+title: "n integrated watershed-scale framework to model nitrogen transport and transformations"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Qiu, Han, Jie Niu, Dean G. Baas, and Mantha S. Phanikumar. 2023. An integrated watershed-scale framework to model nitrogen transport and transformations. Science of The Total Environment 882, 163348. DOI:https://doi.org/10.1016/j.scitotenv.2023.163348. &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
