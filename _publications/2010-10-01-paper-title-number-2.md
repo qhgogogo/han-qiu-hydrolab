@@ -10,6 +10,6 @@ citation: 'Qiu, Han, Jie Niu, Dean G. Baas, and Mantha S. Phanikumar. 2023. An i
 ---
 This paper is about the numberxx. The number xx3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://qhgogogo.github.io/han-qiu-hydrolab/files/paper2.pdf)
 
 Recommended citation: Han Qiu et al.,. (2023). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
