@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Han Qiu Ph.D."
-  avatar           : "HQprofile.png"
+  avatar           : "HanQiu_photo.jpg"
   bio              : "I conduct research aimed at addressing critical global environmental and earth sciences issues. These encompass challenges such as algal blooms, hypoxia, groundwater contamination, global carbon cycle, seawater intrusion, etc., and the widening gap between water supply and demand, propelled by climate change, heightened extremes, human activities, and the resultant complexities in securing future provisions for food, energy, and water resources."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=1VnCrcAAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Han-Qiu-16"
   uri              :
   bitbucket        :
   codepen          :
