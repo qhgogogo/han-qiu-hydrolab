@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Han Qiu Ph.D."
   avatar           : "HanQiu.jpg"
-  bio              : "I conduct research aimed at addressing critical global environmental and earth sciences issues. These encompass challenges such as algal blooms, hypoxia, groundwater contamination, global carbon cycle, seawater intrusion, etc., and the widening gap between water supply and demand, propelled by climate change, heightened extremes, human activities, and the resultant complexities in securing future provisions for food, energy, and water resources."
+  bio              : "I am a broadly trained hydrologist, water resources and environmental engineer with interdisciplinary expertise spanning computational hydrology and hydrodynamics, water quality and biogeochemistry, environmental and earth system modeling, integrated assessment modeling, developed through extensive research across diverse systems. I conduct research aimed at addressing critical global environmental and earth sciences issues. These encompass challenges such as algal blooms, hypoxia, groundwater contamination, global carbon cycle, seawater intrusion, etc., and the widening gap between water supply and demand, propelled by climate change, heightened extremes, human activities, and the resultant complexities in securing future provisions for food, energy, and water resources."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1VnCrcAAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/Han-Qiu-16"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/qhgogogo"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/my-orcid?orcid=0000-0001-9962-2472"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
