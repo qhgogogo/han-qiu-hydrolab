@@ -10,39 +10,27 @@ redirect_from:
 
 This is the website of Han Qiu's Hydrolab. I conduct research aimed at addressing critical global environmental and earth sciences issues. These encompass challenges such as algal blooms, groundwater contamination, hypoxia, seawater intrusion, carbon and nutrient cycle, energy transition, and the widening gap between water supply and demand, propelled by climate change, heightened extremes, human activities, and the resultant complexities in securing future provisions for food, energy, and water resources. I integrate process-based and data-driven modeling, remote sensing, field observations, and artificial intelligence (AI) to advance understanding and improve predictive capabilities of co-evolving processes across scales, from sites and watersheds to mesoscales. My work emphasizes advancing next-generation modeling frameworks to bridge climatological, hydrological, agroecological, environmental and anthropogenic processes, capturing their complex interactions and feedbacks, and to inform policy making. Beyond applying existing models, I emphasize the development of scalable parallel architectures for mesoscale, hyper-resolution Environmental and Earth system modeling, coupled with the integration of multiphysical, biogeochemical, energy system and human processes. More recently, I have expanded this integration to include the human dimension by coupling water and Earth system models with integrated assessment frameworks, linking hydrologic, geoscientific and socioeconomic processes with policies. This holistic approach enables the assessment of resilience and adaptability within interconnected environmental, ecological, and socio-economic systems. 
 
-A data-driven personal website
+Current Projects
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+•	Simulating fine-scale wetland inundation and surface water–groundwater interactions to improve aquatic biogeochemical modeling using an integrated hydrologic and land surface framework. NSF FRES project
+•	Evaluate the multifaceted impacts of solar energy expansion on agricultural lands and the food–water–energy nexus, and to advance sustainable agroenergy landscape science and design. NSF GCR project
+•	Developing a near real-time digital twin of the Dallas-Fort Worth stormwater systems to enable data-driven analysis, long-term forecasting, and informed decision-making for sustainable urban development and effective stormwater. HUC flooding project
+•	Development of hybrid process-based and machine learning model to simulate the water, nutrient and soil erosion dynamics.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Previous Projects
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+•	Improve hydrologic representations in E3SM (Energy Exascale Earth System Model). Develop inter-grid lateral saturated and unsaturated flow and heat transfer processes in E3SM model. Development of Land-Ocean-Groundwater hydrologic coupling in E3SM. Apply parallel and cloud computing techniques to realize hyper-resolution integrated hydrologic and earth system modeling at continental/global scales.  DOE SciDAC and ICOM project.
+•	Applications of artificial intelligence in hydrology, ecology and Earth system science.
+•	Quantifying Socioeconomic Impacts of Changing Arctic Ecosystems Using ABoVE Datasets in An Integrated Human-Earth System Modeling and Data Assimilation Framework. NASA-Above project
+•	Integrating field experiments, remote sensing, and process-based modeling toward improved understanding and quantification of watershed scale carbon cycling", NASA Carbon Cycle Science Program.
+•	Developing integrated surface/subsurface flow and reactive transport processes in PFLOTRAN (Parallel Reactive Flow and Transport Model) for bridging the gap between terrestrial and aquatic biogeochemical processes.
+•	Climate Impacts & Risks Analysis – EPIC and SWAT modeling of crop yields, irrigation and environmental impacts. Evaluating the Impacts of Grassland to Crop Conversion on the Soil Erosion and Nutrient Loss in the Midwest of US, EPA project.
+•	Develop an operational Integrative Decision Support System (DSS) that utilizes a diverse set of models and data to aid water managers and agricultural producers in developing more sustainable decisions and futuristic planning for agricultural water uses under present and varying future climatic conditions. USDA-NIFA project.
+•	Development of Process-based hydrologic model to Simulate the water, energy and nitrogen dynamics with applications of multi-objective optimization at watershed scale. Synthesize approaches based on the Budyko curve and process-based modeling approaches to understand the space-time variability of water balance components in Great Lakes Watersheds, MI, USA.
+•	Research on the impact of spatial resolution of Soil Moisture Active Passive (SMAP) product on hydrologic modeling of soil moisture. 
+•	Hierarchical groundwater modeling to study the salty water intrusion problem in Ottawa County, MI, using a 3-D groundwater model. 
+•	stochastic modeling of geological data and aquifer structure of Ottawa County based on Transition Possibility / Marcov Chain (TP / MC) model. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
