@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering (Water Resources), Wuahn Univeristy, 2010
+* M.S. in Civil Engineering (Water Resources), Michigan State University, 2013
+* Ph.D in Civil Engineering (Water Resources), Michigan State University,  2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024 May -Now: Research Scientist. Department of Sustainable Earth Systems Sciences, University of Texas, Dallas.
+  * Simulating fine-scale wetland inundation and surface water–groundwater interactions to improve aquatic biogeochemical modeling using an integrated hydrologic and land surface framework.
+  * Developing a near real-time digital twin of the Dallas-Fort Worth stormwater systems to enable data-driven analysis, long-term forecasting, and informed decision-making for sustainable urban development and effective stormwater.
+  * Evaluate the multifaceted impacts of solar energy expansion on agricultural lands and the food–water–energy nexus, and to advance sustainable agroenergy landscape science and design.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  2019.07 –2024.5: Research Associate, PNNL
+ Atmospheric, Climate and Earth Sciences Division && Joint Global Change Research Institute, Pacific Northwest National Lab.
+  * Improve hydrologic representations in E3SM (Energy Exascale Earth System Model). Develop inter-grid lateral saturated and unsaturated flow and heat transfer processes in E3SM model. Development of Land-Ocean-Groundwater hydrologic coupling in E3SM. Apply parallel and cloud computing techniques to realize hyper-resolution integrated hydrologic and earth system modeling at continental/global scales.  
+  * Quantifying Socioeconomic Impacts of Changing Arctic Ecosystems Using ABoVE Datasets in An Integrated Human-Earth System Modeling and Data Assimilation Framework. NASA-Above project
+  * Applications of artificial intelligence in hydrology, ecology and Earth system science.
+  * Integrating field experiments, remote sensing, and process-based modeling toward improved understanding and quantification of watershed scale carbon cycling
+  * Climate Impacts & Risks Analysis – EPIC and SWAT modeling of crop yields, irrigation and environmental impacts. Evaluating the Impacts of Grassland to Crop Conversion on the Soil Erosion and Nutrient Loss in the Midwest of US, EPA project.
+  * Developing integrated surface/subsurface flow and reactive transport processes in PFLOTRAN (Parallel Reactive Flow and Transport Model) for bridging the gap between terrestrial and aquatic biogeochemical processes.
  
 Research Interests and Skills
 ======
