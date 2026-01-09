@@ -12,10 +12,10 @@ This is the website of Han Qiu's Hydrolab. I conduct research aimed at addressin
 
 Current Projects
 ======
-1. Simulating fine-scale wetland inundation and surface water–groundwater interactions to improve aquatic biogeochemical modeling using an integrated hydrologic and land surface framework. NSF FRES project
-1. Evaluate the multifaceted impacts of solar energy expansion on agricultural lands and the food–water–energy nexus, and to advance sustainable agroenergy landscape science and design. NSF GCR project /
-1. Developing a near real-time digital twin of the Dallas-Fort Worth stormwater systems to enable data-driven analysis, long-term forecasting, and informed decision-making for sustainable urban development and effective stormwater. HUC flooding project /
-1. Development of hybrid process-based and machine learning model to simulate the water, nutrient and soil erosion dynamics. /
+1. Simulating fine-scale wetland inundation and surface water–groundwater interactions to improve aquatic biogeochemical modeling using an integrated hydrologic and land surface framework. NSF FRES project.
+1. Evaluate the multifaceted impacts of solar energy expansion on agricultural lands and the food–water–energy nexus, and to advance sustainable agroenergy landscape science and design. NSF GCR project.
+1. Developing a near real-time digital twin of the Dallas-Fort Worth stormwater systems to enable data-driven analysis, long-term forecasting, and informed decision-making for sustainable urban development and effective stormwater. HUC flooding project.
+1. Development of hybrid process-based and machine learning model to simulate the water, nutrient and soil erosion dynamics. 
 
 
 Previous Projects
