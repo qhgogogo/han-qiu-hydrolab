@@ -26,6 +26,26 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+ 
+Research Interests and Skills
+======
+* Computational Hydrology and Fluid Dynamics
+  * Water Quality, Nutrient/Contaminant Reactive Transport Modeling
+  * Ecohydrology, Agroecology, Karst Hydrology, Coastal Hydrology
+  * Watershed Management, Nature Based Solution
+*  Environmental and Earth Systems Modeling
+  * Ecosystem Processes Modeling
+  * Hyper-resolution Earth System Modeling
+  * Natural Hazards
+  * Carbon and Nutrient Cycling
+* Artificial Intelligence in Hydrology, Environmental and Earth System Sciences
+  * Physics Informed AI and explainable AI
+  * Hybdrid AI and process based modeling
+  * AI Agent and Agentic AI
+* Water-Food-Energy Nexus
+  * Integrated Assessment Modeling
+  * Coupled Human-Earth System Modeling
+  * Energy Transition and Food Security
   
 Skills
 ======
