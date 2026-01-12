@@ -53,10 +53,7 @@ Research Interests and Skills
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  PUBLICATIONS (*corresponding author, +: paper with students mentored)
+ (*corresponding author, +: paper with students mentored)
 46. Sun, Zhenting, Lei Ma, Quan Li, Yaping Deng, Han Qiu, Haichun Ma and Jiazhong Qian. “Three-Dimensional Discrete Fracture Network Identification Based on Deep Learning and Reversible Jump Markov Chain Monte Carlo Algorithm.” International Journal of Rock Mechanics and Mining Sciences 197 (January 2026): 106327. https://doi.org/10.1016/j.ijrmms.2025.106327. (2026)
 45. Tong, Yiming, Yu Chen, Yanping Qu, Virgílio A. Bento, Han Qiu, Jingyu Zeng, Qianfeng Wang. “Global Rainfall Erosivity: Observation, Attribution, and Projection.” International Soil and Water Conservation Research, December 19, 2025. https://doi.org/10.1016/j.iswcr.2025.12.005. (2025)
 44. Yang, Xiaofan, Yu Chen, Han Qiu, Virgílio A. Bento, Hongquan Song, Wei Shui, Jingyu Zeng, and Qianfeng Wang . “Enhancing Evapotranspiration Estimates Under Climate Change: The Role of CO2 Physiological Feedback and CMIP6 Scenarios.” Hydrology and Earth Systems Sciences, 29, no. 20 (2025): 5645–64.  https://doi.org/10.5194/hess-29-5645-2025. (2025).
@@ -95,7 +92,6 @@ Publications
 11. Liu, HaiFan, Heng Dai, Jie Niu, Bill X Hu, Dongwei Gui, Han Qiu, Ming Ye, Xingyuan Chen, Chuanhao Wu, Jin Zhang, William Riley. Hierarchical sensitivity analysis for a large-scale process-based hydrological model applied to an Amazonian watershed. Hydrology and Earth System Sciences, 24(10), 4971-4996. DOI: https://doi.org/10.5194/hess-24-4971-2020 (2020)
 10. Sun, Liwei, Han Qiu+, Chuanhao Wu, Jie Niu, Bill X Hu. A review of applications of fractional advection–dispersion equations for anomalous solute transport in surface and subsurface water. WIREs Water 7, e1448. DOI: https://doi.org/10.1002/wat2.1448 (2020)
 9. Sun, Liwei, Han Qiu+, Jie Niu, Bill X Hu, James F Kelly, Diogo Bolster, Mantha S Phanikumar. Comparison of negative skewed space fractional models with time nonlocal approaches for stream solute transport modeling. Journal of Hydrology, https://doi.org/10.1016/j.jhydrol.2019.124504 (2020)
-
 8. Qiu, Han, Phillip Blaen, Sophie Comer‐Warner, David M Hannah, Stefan Krause, Mantha S Phanikumar. Evaluating a coupled phenology‐surface energy balance model to understand stream‐subsurface temperature dynamics in a mixed‐use farmland catchment. Water Resources Research, 55(2), 1675-1697. DOI: https://doi.org/10.1029/ 2018WR023644 (2019)
 7. Zhang, Juan, Xiaoying Zhang, Jie Niu, Bill X Hu, Mohamad Reza Soltanian, Han Qiu, Lei Yang. Prediction of groundwater level in seashore reclaimed land using wavelet and artificial neural network-based hybrid model. Journal of Hydrology, 577, 123948. DOI: https://doi.org/10.1016/j.jhydrol.2019.123948 (2019)
 6. Qiu, Han, Jie Niu, Mantha S Phanikumar. Quantifying the space–time variability of water balance components in an agricultural basin using a process-based hydrologic model and the Budyko framework. Science of the Total Environment, 676, 176-189. https://doi.org/10.1016/j.scitotenv.2019.04.147 (2019)
@@ -112,13 +108,12 @@ MANUSCRIPTS IN REVISION/UNDER REVIEW
 3. Niu, Jie, William J. Riley, Chaopeng Shen, Han Qiu, MingXia Xu. Harnessing Deep Learning for Precise Mapping and Analysis of Worldwide River Obstructions, submitted to Nature Communications, in review.
 2. Qianfeng Wang and Han Qiu *.  Climate sensitivity plays a key role in shaping the global patterns of tree responses to extreme drought. Submitted to Global Change Biology, in review.
 1. Qiu, Han*, Amor V.M. Ines and David Hyndman. Evaluating hydrologic responses of a process based hydrologic model to GCM downscaled climatology using NHMM method. Submitted to Journal of hydrology, in review.
-MANUSCRIPTS IN PREPARATION
-Qiu Han* and David Hyndman. A Hybrid Process-Based and Deep Learning Model for Urban Flood Modeling: Application to the Dallas–Fort Worth Metroplex.
-Qiu Han*, Gautam Bisht, Lingcheng Li, Donghui Xu. Impacts of lateral subsurface flow on water and energy partitioning in a k-scale ELMv2.0: A case study in the Upper Colorado Watershed.
-Qiu, Han, Gautam Bisht and Xingyuan Chen. Developing integrated surface-subsurface flow and reactive transport processes in the high performance subsurface reactive flow and transport model PFLOTRAN. 
-Qiu, Han, Jie Niu. Deep learning informed multi-objective optimization of a process based hydrologic model and the implication of parameter equifinality.
 
-CONFERENCE, PRESENTATIONS AND INVITED TALKS
+MANUSCRIPTS IN PREPARATION
+4.Qiu Han* and David Hyndman. A Hybrid Process-Based and Deep Learning Model for Urban Flood Modeling: Application to the Dallas–Fort Worth Metroplex.
+3.Qiu Han*, Gautam Bisht, Lingcheng Li, Donghui Xu. Impacts of lateral subsurface flow on water and energy partitioning in a k-scale ELMv2.0: A case study in the Upper Colorado Watershed.
+2.Qiu, Han, Gautam Bisht and Xingyuan Chen. Developing integrated surface-subsurface flow and reactive transport processes in the high performance subsurface reactive flow and transport model PFLOTRAN. 
+1.Qiu, Han, Jie Niu. Deep learning informed multi-objective optimization of a process based hydrologic model and the implication of parameter equifinality.
 
 Conference, Presentations and Invited Talks
 ======
