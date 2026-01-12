@@ -155,31 +155,31 @@ Conference, Presentations and Invited Talks
 
 Teaching
 ======
-9.Guest Lecturer. GISC5314 - Climate Change Resilience and Adaptation, UT-Dallas, 38 enrollments, 2024
-8.Guest Lecturer. GIS2023: Introduction to Spatial Thinking and Computer Mapping, University of Oklahoma, 22 enrollments, 2022
-7.Guest Lecturer.  GEOG4183/5183: Landscape Ecology, University of Oklahoma, 20 enrollments, 2022
-6.Guest Lecturer. GIST5350: Enterprise GIS, University of Wyoming, 24 enrollments, 2021
-5.Workshop Instructor. Application of processed based adaptive hydrologic simulators (PAWS) and model calibrations to real-world watersheds, 2017, 2018
-4.Lab Instructor. CE 822: Groundwater Modeling. Michigan State University, 28 enrollments. 2018.
-3.Teaching Assistant. ENE 801: Dynamics of Environmental Systems. Michigan State University, 42 enrollments.2017.
-2.Teaching Assistant and Lab Instructor. CE 321: Introduction to fluid mechanics. Michigan State University, 86 enrollments. 2017.
-1.Teaching Assistant. CE 421: Engineering Hydrology. Michigan State University, 74 enrollments.2016.
+9. Guest Lecturer. GISC5314 - Climate Change Resilience and Adaptation, UT-Dallas, 38 enrollments, 2024
+8. Guest Lecturer. GIS2023: Introduction to Spatial Thinking and Computer Mapping, University of Oklahoma, 22 enrollments, 2022
+7. Guest Lecturer.  GEOG4183/5183: Landscape Ecology, University of Oklahoma, 20 enrollments, 2022
+6. Guest Lecturer. GIST5350: Enterprise GIS, University of Wyoming, 24 enrollments, 2021
+5. Workshop Instructor. Application of processed based adaptive hydrologic simulators (PAWS) and model calibrations to real-world watersheds, 2017, 2018
+4. Lab Instructor. CE 822: Groundwater Modeling. Michigan State University, 28 enrollments. 2018.
+3. Teaching Assistant. ENE 801: Dynamics of Environmental Systems. Michigan State University, 42 enrollments.2017.
+2. Teaching Assistant and Lab Instructor. CE 321: Introduction to fluid mechanics. Michigan State University, 86 enrollments. 2017.
+1. Teaching Assistant. CE 421: Engineering Hydrology. Michigan State University, 74 enrollments.2016.
 
 Tutoring Experience
 ======
-4.Tamadoni, Amin (PhD student at UT-Dallas), Project: Developing a Near Real-Time Digital Twin of the DFW Region Stormwater Systems for Retrospective Analyses, Long-Term Forecasting, and Sustainable Urban Development in the Dallas Metroplex, 2024-now
-3.Karimi, Fatemeh (PhD student at UT-Dallas), Project: Growing Restorative Agroenergy Landscapes, 2025- now
-2.Abhijeet Abhishek (Master student at MSU), Project: Modeling stream flow, soil moisture and carbon/nitrogen dynamics in a mixed land use watershed using a process-based hydrologic model, 2018-2019
-1.Guoting Kang (Ph.D student at MSU), Project: Modeling 
+4. Tamadoni, Amin (PhD student at UT-Dallas), Project: Developing a Near Real-Time Digital Twin of the DFW Region Stormwater Systems for Retrospective Analyses, Long-Term Forecasting, and Sustainable Urban Development in the Dallas Metroplex, 2024-now
+3. Karimi, Fatemeh (PhD student at UT-Dallas), Project: Growing Restorative Agroenergy Landscapes, 2025- now
+2. Abhijeet Abhishek (Master student at MSU), Project: Modeling stream flow, soil moisture and carbon/nitrogen dynamics in a mixed land use watershed using a process-based hydrologic model, 2018-2019
+1. Guoting Kang (Ph.D student at MSU), Project: Modeling 
 
 Service and leadership
 ======
-7.Editorial Services: Guest Associate Editor: Journal of Hydrology (2023), Frontiers in Water (2025- now). 
-6.Journal Reviews: Water Research, Water Resources Research, Geophysical Research Letter, Environmental Modeling and Software, Science of the Total Environmental, Journal of Hydrology, Advances in Water Resources, Geoscientific Model Development, Journal of Environmental management, Journal of Hydrologic Engineering, Earth and Space Science, Computers and Electronics in Agriculture。
-5.Award Judge for Fellowships, Conferences and Competitions
-4.Reviewer, National Science Foundation Graduate Research Fellowship Program (NSF-GRFP), 2024.
-3.Reviewer, Outstanding Student Presentation Awards (OSPA), American Geophysical Union 2023 Fall Meeting. San Francisco, CA, Dec 2023. 
-2.Reviewer, Outstanding Student Presentation Awards (OSPA), American Geophysical Union 2021 Fall Meeting. Chicago, IL, Dec 2022. 
-1.Student Award Judge, Graduate Research Symposium, Michigan State University, May 2018.
+7. Editorial Services: Guest Associate Editor: Journal of Hydrology (2023), Frontiers in Water (2025- now). 
+6. Journal Reviews: Water Research, Water Resources Research, Geophysical Research Letter, Environmental Modeling and Software, Science of the Total Environmental, Journal of Hydrology, Advances in Water Resources, Geoscientific Model Development, Journal of Environmental management, Journal of Hydrologic Engineering, Earth and Space Science, Computers and Electronics in Agriculture.
+5. Award Judge for Fellowships, Conferences and Competitions
+4. Reviewer, National Science Foundation Graduate Research Fellowship Program (NSF-GRFP), 2024.
+3. Reviewer, Outstanding Student Presentation Awards (OSPA), American Geophysical Union 2023 Fall Meeting. San Francisco, CA, Dec 2023. 
+2. Reviewer, Outstanding Student Presentation Awards (OSPA), American Geophysical Union 2021 Fall Meeting. Chicago, IL, Dec 2022. 
+1. Student Award Judge, Graduate Research Symposium, Michigan State University, May 2018.
 
 
