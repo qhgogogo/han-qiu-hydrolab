@@ -110,10 +110,10 @@ MANUSCRIPTS IN REVISION/UNDER REVIEW
 1. Qiu, Han*, Amor V.M. Ines and David Hyndman. Evaluating hydrologic responses of a process based hydrologic model to GCM downscaled climatology using NHMM method. Submitted to Journal of hydrology, in review.
 
 MANUSCRIPTS IN PREPARATION
-4.Qiu Han* and David Hyndman. A Hybrid Process-Based and Deep Learning Model for Urban Flood Modeling: Application to the Dallas–Fort Worth Metroplex.
-3.Qiu Han*, Gautam Bisht, Lingcheng Li, Donghui Xu. Impacts of lateral subsurface flow on water and energy partitioning in a k-scale ELMv2.0: A case study in the Upper Colorado Watershed.
-2.Qiu, Han, Gautam Bisht and Xingyuan Chen. Developing integrated surface-subsurface flow and reactive transport processes in the high performance subsurface reactive flow and transport model PFLOTRAN. 
-1.Qiu, Han, Jie Niu. Deep learning informed multi-objective optimization of a process based hydrologic model and the implication of parameter equifinality.
+4. Qiu Han* and David Hyndman. A Hybrid Process-Based and Deep Learning Model for Urban Flood Modeling: Application to the Dallas–Fort Worth Metroplex.
+3. Qiu Han*, Gautam Bisht, Lingcheng Li, Donghui Xu. Impacts of lateral subsurface flow on water and energy partitioning in a k-scale ELMv2.0: A case study in the Upper Colorado Watershed.
+2. Qiu, Han, Gautam Bisht and Xingyuan Chen. Developing integrated surface-subsurface flow and reactive transport processes in the high performance subsurface reactive flow and transport model PFLOTRAN. 
+1. Qiu, Han, Jie Niu. Deep learning informed multi-objective optimization of a process based hydrologic model and the implication of parameter equifinality.
 
 Conference, Presentations and Invited Talks
 ======
